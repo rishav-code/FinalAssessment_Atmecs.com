@@ -1,0 +1,72 @@
+2019-09-26 15:50:10,160  INFO [main] LogReport:23 - Redirection validation
+2019-09-26 15:52:54,650  INFO [main] LogReport:23 - Redirection validation
+2019-09-26 15:56:38,794  INFO [main] LogReport:23 - Redirection validation
+2019-09-26 15:56:38,799  INFO [main] LogReport:23 - Successfully redirected to Homepage
+2019-09-26 15:56:39,040  INFO [main] LogReport:23 - Redirection validation
+2019-09-26 15:56:39,041  INFO [main] LogReport:23 - Successfully redirected to Homepage
+2019-09-26 16:01:46,521  INFO [main] LogReport:23 - Redirection validation
+2019-09-26 16:01:46,526  INFO [main] LogReport:23 - Successfully redirected to Homepage
+2019-09-26 16:02:38,405  INFO [main] LogReport:23 - Redirection validation
+2019-09-26 16:02:38,411  INFO [main] LogReport:23 - Successfully redirected to Homepage
+2019-09-26 16:03:14,319  INFO [main] LogReport:23 - Redirection validation
+2019-09-26 16:03:14,324  INFO [main] LogReport:23 - Successfully redirected to Homepage
+2019-09-26 16:04:07,026  INFO [main] LogReport:23 - Redirection validation
+2019-09-26 16:04:07,032  INFO [main] LogReport:23 - Successfully redirected to Homepage
+2019-09-26 16:09:53,090  INFO [main] LogReport:23 - Redirection validation
+2019-09-26 16:09:53,095  INFO [main] LogReport:23 - Successfully redirected to Homepage
+2019-09-26 16:25:22,115  INFO [main] LogReport:23 - Redirection validation
+2019-09-26 16:25:22,121  INFO [main] LogReport:23 - Successfully redirected to Homepage
+2019-09-26 18:34:24,151  INFO [main] LogReport:23 - ai is there
+2019-09-26 18:47:54,630  INFO [main] LogReport:23 - content is there
+2019-09-26 19:36:33,687  INFO [main] LogReport:23 - Redirection validation
+2019-09-26 19:36:33,692  INFO [main] LogReport:23 - Successfully redirected to Homepage
+2019-09-26 19:38:41,468  INFO [main] LogReport:23 - content is there
+2019-09-26 19:38:41,558  INFO [main] LogReport:23 - ai is there
+2019-09-26 19:38:41,632  INFO [main] LogReport:23 - home is there
+2019-09-26 19:42:03,385  INFO [main] LogReport:23 - Redirection validation
+2019-09-26 19:42:03,389  INFO [main] LogReport:23 - Successfully redirected to Homepage
+2019-09-26 19:42:03,541  INFO [main] LogReport:23 - ai in services option  exist
+2019-09-26 19:42:03,640  INFO [main] LogReport:23 - arvr in services option  exist
+2019-09-26 19:42:03,726  INFO [main] LogReport:23 - qe in services option  exist
+2019-09-26 19:42:03,820  INFO [main] LogReport:23 - blockchain in services option  exist
+2019-09-26 19:42:03,918  INFO [main] LogReport:23 - robotic in services option  exist
+2019-09-26 19:42:04,004  INFO [main] LogReport:23 - cloud in services option  exist
+2019-09-26 19:42:04,098  INFO [main] LogReport:23 - ea in sitemap option  exist
+2019-09-26 19:42:04,188  INFO [main] LogReport:23 - iot in services option  exist
+2019-09-26 19:42:04,273  INFO [main] LogReport:23 - news in services option  exist
+2019-09-26 19:42:04,386  INFO [main] LogReport:23 - mc in services option  exist
+2019-09-26 19:42:04,478  INFO [main] LogReport:23 - ai in services option  exist
+2019-09-26 19:42:04,568  INFO [main] LogReport:23 - Site map is there
+2019-09-26 19:42:04,662  INFO [main] LogReport:23 - home in sitemap option  exist
+2019-09-26 19:42:04,752  INFO [main] LogReport:23 - aboutus in sitemap option  exist
+2019-09-26 19:42:04,842  INFO [main] LogReport:23 - service in sitemap option  exist
+2019-09-26 19:42:04,933  INFO [main] LogReport:23 - partners in sitemap option  exist
+2019-09-26 19:42:05,024  INFO [main] LogReport:23 - casestudio in sitemap option  exist
+2019-09-26 19:42:05,082  INFO [main] LogReport:23 - news in sitemap option  exist
+2019-09-26 19:42:05,166  INFO [main] LogReport:23 - carrer in sitemap option  exist
+2019-09-26 19:42:05,222  INFO [main] LogReport:23 - contactus in sitemap option  exist
+2019-09-26 19:52:06,573  INFO [main] LogReport:23 - Redirection validation
+2019-09-26 19:52:06,584  INFO [main] LogReport:23 - Successfully redirected to Homepage
+2019-09-26 19:52:06,736  INFO [main] LogReport:23 - ai in services option  exist
+2019-09-26 19:52:06,844  INFO [main] LogReport:23 - arvr in services option  exist
+2019-09-26 19:52:06,936  INFO [main] LogReport:23 - qe in services option  exist
+2019-09-26 19:52:07,024  INFO [main] LogReport:23 - blockchain in services option  exist
+2019-09-26 19:52:07,116  INFO [main] LogReport:23 - robotic in services option  exist
+2019-09-26 19:52:07,212  INFO [main] LogReport:23 - cloud in services option  exist
+2019-09-26 19:52:07,316  INFO [main] LogReport:23 - ea in sitemap option  exist
+2019-09-26 19:52:07,408  INFO [main] LogReport:23 - iot in services option  exist
+2019-09-26 19:52:07,500  INFO [main] LogReport:23 - news in services option  exist
+2019-09-26 19:52:07,584  INFO [main] LogReport:23 - mc in services option  exist
+2019-09-26 19:52:07,674  INFO [main] LogReport:23 - ai in services option  exist
+2019-09-26 19:52:07,758  INFO [main] LogReport:23 - Site map is there
+2019-09-26 19:52:07,850  INFO [main] LogReport:23 - home in sitemap option  exist
+2019-09-26 19:52:07,934  INFO [main] LogReport:23 - aboutus in sitemap option  exist
+2019-09-26 19:52:08,022  INFO [main] LogReport:23 - service in sitemap option  exist
+2019-09-26 19:52:08,118  INFO [main] LogReport:23 - partners in sitemap option  exist
+2019-09-26 19:52:08,218  INFO [main] LogReport:23 - casestudio in sitemap option  exist
+2019-09-26 19:52:08,278  INFO [main] LogReport:23 - news in sitemap option  exist
+2019-09-26 19:52:08,366  INFO [main] LogReport:23 - carrer in sitemap option  exist
+2019-09-26 19:52:08,422  INFO [main] LogReport:23 - contactus in sitemap option  exist
+2019-09-26 19:53:22,412  INFO [main] LogReport:23 - content is there
+2019-09-26 19:53:22,502  INFO [main] LogReport:23 - ai is there
+2019-09-26 19:53:22,586  INFO [main] LogReport:23 - home is there
